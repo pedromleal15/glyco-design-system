@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Glyco DS">
+  <title>Glyco DS</title>
+  <!-- Mesma cor de fundo da favicon principal, redondo -->
+  <rect width="64" height="64" rx="32" ry="32" fill="#0a0b0d"/>
+  <!-- DS em IBM Plex Sans Bold (font da marca) com fallbacks; letter-spacing -0.04em ≈ -1.1 -->
+  <text
+    x="32" y="32"
+    text-anchor="middle"
+    dominant-baseline="central"
+    fill="#eef1f6"
+    font-family="'IBM Plex Sans', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="700"
+    font-size="28"
+    letter-spacing="-1.1"
+  >DS</text>
+</svg>
